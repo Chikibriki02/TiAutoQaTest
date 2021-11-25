@@ -14,9 +14,7 @@ namespace TeamI
         static void Main(string[] args)
         {
             char azb = 'A';
-            double x=0, y=0;
-            string Equilater = "Equilater";
-            string Isosceles = "Isosceles";
+            double x=0, y=0;         
             string parametr;
             List<Otrezok> points = new List<Otrezok>();
             for (int i = 0; i < 3; i++)
